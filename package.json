@@ -1,0 +1,13 @@
+{
+  "name": "a24-film-catalog",
+  "version": "1.0.0",
+  "description": "Recreation of A24 Film Catalog showcase website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["a24", "threejs", "webgl", "interactive"],
+  "author": "",
+  "license": "ISC"
+}
